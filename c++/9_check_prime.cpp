@@ -1,6 +1,6 @@
 // modern mathematicians define a number as prime if it is divided by exactly two numbers. 
 
-#include <iostream>
+/* #include <iostream>
 using namespace std;
 
 int main(){
@@ -23,4 +23,4 @@ int main(){
    cout<<"Prime";
    }
    return 0;
-   }
+   } */

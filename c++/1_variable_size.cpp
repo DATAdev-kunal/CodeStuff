@@ -8,7 +8,7 @@ int main(){
    bool b;
    short int si;
    long int li;
-   
+   //long long int lli;
    cout<<endl<<"size of intger is :"<<sizeof(i)<<endl;//4
    cout<<"size of float is  :"<<sizeof(f)<<endl;//4
    cout<<"size of char is   :"<<sizeof(c)<<endl;//1

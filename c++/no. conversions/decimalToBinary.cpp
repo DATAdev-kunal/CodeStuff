@@ -23,6 +23,7 @@ int decimalToBinary(int n)
 int main()
 {
    int n;
+   cout<<"Enter any number"<<endl;
    cin>>n;
 
    cout<<decimalToBinary(n)<<endl;

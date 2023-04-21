@@ -4,6 +4,7 @@ using namespace std;
 int main(){
 // n- no. of rows
 // m- no. of columns
+
    int n,m; 
    cin>>n>>m;
 
