@@ -1,1 +1,0 @@
-         cout<<"enter no. a :";

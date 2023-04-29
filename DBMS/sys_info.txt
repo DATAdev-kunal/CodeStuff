@@ -1,0 +1,55 @@
+
+Host Name:                 LAPTOP-JSBNEEGO
+OS Name:                   Microsoft Windows 11 Home Single Language
+OS Version:                10.0.22621 N/A Build 22621
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Kunal
+Registered Organization:   HP
+Product ID:                00342-42598-95239-AAOEM
+Original Install Date:     06-10-2022, 11:11:52 PM
+System Boot Time:          05-11-2022, 12:55:43 AM
+System Manufacturer:       HP
+System Model:              HP Pavilion Laptop 14-dv1xxx
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 140 Stepping 2 GenuineIntel ~2496 Mhz
+BIOS Version:              Insyde F.20, 14-06-2022
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              00004009
+Time Zone:                 (UTC+05:30) Sri Jayawardenepura
+Total Physical Memory:     16,134 MB
+Available Physical Memory: 9,067 MB
+Virtual Memory: Max Size:  18,566 MB
+Virtual Memory: Available: 10,060 MB
+Virtual Memory: In Use:    8,506 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\LAPTOP-JSBNEEGO
+Hotfix(s):                 3 Hotfix(s) Installed.
+                           [01]: KB5017271
+                           [02]: KB5018427
+                           [03]: KB5017233
+Network Card(s):           3 NIC(s) Installed.
+                           [01]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+                           [02]: Realtek RTL8822CE 802.11ac PCIe Adapter
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     172.16.200.11
+                                 IP address(es)
+                                 [01]: 172.16.203.56
+                                 [02]: fe80::aadc:2a4:9840:4145
+                           [03]: VirtualBox Host-Only Ethernet Adapter
+                                 Connection Name: Ethernet 2
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     255.255.255.255
+                                 IP address(es)
+                                 [01]: 169.254.11.221
+                                 [02]: fe80::3a58:68d0:da82:e939
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.

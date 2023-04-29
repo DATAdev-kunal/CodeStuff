@@ -1,6 +1,7 @@
 #initialising variables
 
 print("Hello World")
+print("Hello World")
 state1=3
 state2=4.5
 state3="changes"
@@ -35,5 +36,4 @@ name=input("Your name please !")
 print(name)
 print("Hello "+ name)
   
-
-
+open
